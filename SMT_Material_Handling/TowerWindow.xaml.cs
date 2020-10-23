@@ -20,6 +20,7 @@ namespace SMT_Material_Handling
     /// <summary>
     /// Interaction logic for TowerWindow.xaml
     /// </summary>
+    /// init
     public partial class TowerWindow : MetroWindow
     {
         public TowerWindow(string input)
